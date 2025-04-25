@@ -1,0 +1,10 @@
+0 nothing
+1 Zip-top cans 
+2 Newspaper
+3 old shoes 
+4 watercolorpen
+5 disinfectant
+6 battery
+7 vegetables leaf
+8 apple
+9 human faces 
